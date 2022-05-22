@@ -15,6 +15,6 @@ export default {
 .index{
   height: 300px;
   width: 300px;
-  background-color: blue;
+  background-color: red;
 }
 </style>
